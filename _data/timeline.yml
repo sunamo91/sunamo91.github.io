@@ -1,13 +1,13 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Data Science Inern, JamFeed, TX
+  from: May 2020
+  to: present
+  description: •	Configured, installed and upgraded Configuration management databases and Compliance risk profiles
+•	Automated analytics report generation using SAS macros to reduce manual errors, saving 80 man-hours each week 
+•	Created SQL scripts to analyze data, modify data, import/export scripts, and execute stored procedures
+•	Achieved 15% increase in same day completion rates and 8% drop in SLA breach requests
 
-- title: Software Engineer, Google, UK
+
+- title: Systems Engineer, Tata Consultancy Services, Mumbai, India
   from: 2018
   to: present
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
