@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Google Cloud Platform
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Machine Learning
   percentage: 90
+  color: success
+  
+- name: Data Science
+  percentage: 85
   color: success
